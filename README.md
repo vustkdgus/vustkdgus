@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=P.SangHyun%20&fontSize=50&animation=fadeIn&fontAlignY=38)
 <div align='center'>
-   ### techs
+   ## techs
 </div>
 <p align='center' style="font-size: 160px;"><b> Techs  </b></p>
 <p align='center'><b> Techs that I've used at least once </b></p>
