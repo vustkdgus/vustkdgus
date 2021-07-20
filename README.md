@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=StudyDesktopApp%20&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=P.SangHyun%20&fontSize=50&animation=fadeIn&fontAlignY=38)
 <p align='center'><b> C# 데스크톱 앱 개발 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
