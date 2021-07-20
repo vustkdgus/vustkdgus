@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=P.SangHyun%20&fontSize=50&animation=fadeIn&fontAlignY=38)
-<p align='center' style='font-size:160%'><b> Tech </b></p>
+<p>##stack</p>
+<p align='center' style='font-size:160%'><b> Techs that I've used at least once </b></p>
 
 <p align='center'>
    <br>
