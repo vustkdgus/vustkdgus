@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=P.SangHyun%20&fontSize=50&animation=fadeIn&fontAlignY=38)
-<p align='center'><b> Tech </b></p>
+<p align='center'><span style=" font: italic bold 1.5em/1em Georgia, serif ;"> Tech </span></p>
 <p align='center'>
    <br>
    <a href=#WinformBasic>
