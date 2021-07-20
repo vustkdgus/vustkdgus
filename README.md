@@ -21,9 +21,11 @@
   </a>
    <br>
    <a href=#WPF1>
-    <img src="https://img.shields.io/badge/RasberryPi%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+    <img alt="RaspberryPi" src ="https://img.shields.io/badge/Python-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
   </a>
-   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+   <a href=#WPF1> 
+      <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+   </a>
 </p>
 <br>
 <br>
