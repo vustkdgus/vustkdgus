@@ -33,3 +33,12 @@
 </p>
 <br>
 <br>
+
+## GitHub Commit
+
+<p align='center'>
+  <a href="https://github.com/vustkdgus">
+    <img src="https://github-readme-stats.vercel.app/api?username=vustkdgus&theme=synthwave&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vustkdgus&theme=synthwave&layout=compact"/>
+  </a>
+</p>
