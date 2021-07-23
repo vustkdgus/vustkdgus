@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=P.SangHyun%20&fontSize=50&animation=fadeIn&fontAlignY=38)
 <h2 align = "center"> Techs </h2>
 <br>
-<p align='center'> Techs that I've used at least once </p>
+<p align='center'> Techs that I've used at least once 
    <br>
     <a href="https://github.com/vustkdgus/StudyC">
     <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
